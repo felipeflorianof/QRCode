@@ -1,0 +1,22 @@
+h1, h2{
+    font-family: monospace, Arial;
+    text-align: center;
+}
+textarea{
+    width: 300px;
+    margin: auto;
+    display: block;
+    padding: 20px;
+    font-size: 12pt;
+}
+button{
+    margin: auto;
+    display: block;
+    padding: 10px;
+    font-size: 11pt;
+}
+img#QRCodeImage{
+    margin: auto;
+    display: block;
+    box-shadow: 2px 2px 2px black;
+}
