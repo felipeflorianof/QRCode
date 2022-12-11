@@ -1,5 +1,6 @@
 # QRCode
 
-- Feito em JavaScript, Html e Css.
-- Gerador de QRCode, Pega as informações fornecidas pelo usuário na área de texto e o transforma em um QRCode Funcional.
-- Para esse Projeto utilizei a API do GoogleCharts, Link do site: https://developers.google.com/chart/infographics/docs/qr_codes
+QRCode Generator, Takes the information provided by the user in the text area and transforms it into a Functional QRCode. For this project I used the GoogleCharts API.
+
+- Technologies used: JavaScript, Html e Css.
+- Link for the GoogleCharts API: https://developers.google.com/chart/infographics/docs/qr_codes
